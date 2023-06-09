@@ -1,0 +1,11 @@
+#368 byg:allium_fields
+#41B byg:basalt_barrera
+#556 minecraft:beach
+#010 minecraft:forest
+#79A minecraft:lukewarm_ocean
+#4F1 minecraft:ocean
+#1DF minecraft:old_growth_birch_forest
+#3DC minecraft:plains
+#634 byg:prairie
+#5FF minecraft:river
+#774 minecraft:sunflower_plains
